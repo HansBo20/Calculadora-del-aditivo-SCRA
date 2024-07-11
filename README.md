@@ -1,2 +1,4 @@
-# Calculadora-del-aditivo-SCRA
-Uso del promt para crear una calculadora que determine la relacion entre porcentaje de aditivo SCRA a emplear y la resistencia a la comprension del concreto
+# 
+
+A Pen created on CodePen.io. Original URL: [https://codepen.io/Hans-Vallejo-Garcia/pen/gONpOJe](https://codepen.io/Hans-Vallejo-Garcia/pen/gONpOJe).
+
